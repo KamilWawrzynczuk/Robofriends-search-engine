@@ -5,7 +5,7 @@
 
 Simple project to practice React hooks.
 
-Click [here](https://kamilwawrzynczuk.github.io/robofriends2/)) to see live version of this site.
+Click [here](https://kamilwawrzynczuk.github.io/robofriends2/) to see live version of this site.
 
 ## HOW TO RUN PROJECT
 
